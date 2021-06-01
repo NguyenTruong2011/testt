@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493044941512",
+    "project_id": "ngtruong100-a2007",
+    "storage_bucket": "ngtruong100-a2007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493044941512:android:43f69241372e79f2d45bfd",
+        "android_client_info": {
+          "package_name": "com.example.ngtruong123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493044941512-cfqj2bt7tun70r202vcdoutgu2ltuclo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgUecURiijwoCpitDNb7WaYrPQ9G4GAEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493044941512-cfqj2bt7tun70r202vcdoutgu2ltuclo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
